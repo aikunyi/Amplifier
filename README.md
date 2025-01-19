@@ -58,7 +58,3 @@ https://github.com/thuml/TimesNet
 
 https://github.com/thuml/Autoformer
 
-
-
-
-"# Amplifier" 
