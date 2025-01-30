@@ -1,6 +1,6 @@
 # Amplifier (AAAI 2025)
 
-The repo is the official implementation for the paper: "[**Amplifier: Bringing Attention to Neglected Low-Energy Components in Time Series Forecasting](https://arxiv.org/abs/2501.17216)".
+The repo is the official implementation for the paper: "[**Amplifier: Bringing Attention to Neglected Low-Energy Components in Time Series Forecasting**](https://arxiv.org/abs/2501.17216)".
 
 
 
